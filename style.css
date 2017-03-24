@@ -1,0 +1,45 @@
+body {
+  background-color:lightblue;
+}
+p {
+  color: white ;
+  font-family: cursive;
+  padding: 10px;
+  text-indent: 30px;
+  font-size: 20px;
+ }
+ #aboutme{
+   display: flex;
+   justify-content: center;
+ }
+/*div {*/
+  /*width: 400px;*/
+/*  border: 10px solid green;*/
+/*  height: 100px;*/
+/*  margin: 20px 100px 0 140px;*/
+/*  padding:50px;*/
+/* }*/
+ 
+ #header{
+   display: flex;
+   justify-content: center;
+   
+ }
+ h1{
+   text-align: center
+ }
+ /*div{*/
+ /*    width: 100px;*/
+ /*    height: 100px;*/
+ /*    background-color: blue;*/
+ /*}*/
+ .yellow{
+      background-color: yellow;
+ }
+ 
+/div{
+width: 10px;
+length:15px;
+height: 6px;
+position: seperate;
+}

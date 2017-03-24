@@ -1,0 +1,7 @@
+body{
+    color: blue;
+     background: linear-gradient(-90deg, pink, yellow);
+}
+div{
+    display: inline-block;
+}

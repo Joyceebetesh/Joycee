@@ -1,0 +1,13 @@
+body{
+    color: red;
+     background: linear-gradient(-90deg, green , blue);
+    
+}
+img{
+    width: 350px;
+    
+}
+div {
+    display: inline-block;
+}
+
